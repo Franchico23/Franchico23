@@ -1,16 +1,17 @@
-## Hi there 👋
+## bem vindos ao meu perfil 🧡
 
-<!--
-**Franchico23/Franchico23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e francisco 
 
-Here are some ideas to get you started:
+- gosto de dança 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- jogo handebol 
+
+- uso esse espaço para organizar meus projetos
+
+### entra em contato comigo📧
+
+Franciscoandrade6359@gmail.com 
+
+@pv.fra.n 
+
+![image](https://github.com/user-attachments/assets/5f4611cd-3cbc-4cf7-b2eb-774f67bbd83c)
